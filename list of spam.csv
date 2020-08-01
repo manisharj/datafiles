@@ -1,16 +1,16 @@
-mobile number,result,text,label
-4705858234,not spam,"Hi, how are you?",0
-4705208234,not spam,Call me now,0
-4705208234,not spam,wohooooooo,0
-4705208235,not spam,life is good,0
-4705208236,not spam,Im busy,0
-4705208237,not spam,lets go for coffeeee :),0
-4705208238,not spam,"coming soon, 5pm",0
-4705208239,spam,Win 500 by visiting think link,1
-4705208240,spam,"call tax office, your being monitored. ",1
-4705208241,spam,Play this game and you will be surprised,1
-4705208242,spam,"You won an iPad, click the link below to claim it",1
-4705208243,spam,"Delivery failed, no address found xjhddg delivery",1
-4705208244,spam,text me your username and password,1
-4705208245,spam,Lottery won 1 million,1
-4705208246,spam,jackpot prize 1 million,1
+mobile number,result,label
+4705858234,not spam,,0
+4705208234,not spam,0
+4705208234,not spam,0
+4705208235,not spam,0
+4705208236,not spam,0
+4705208237,not spam,0
+4705208238,not spam,0
+4705208239,spam,1
+4705208240,spam,1
+4705208241,spam,1
+4705208242,spam,1
+4705208243,spam,1
+4705208244,spam,1
+4705208245,spam,1
+4705208246,spam,1
