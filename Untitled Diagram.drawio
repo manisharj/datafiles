@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T12:45:42.078Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="D4iX-xkvDjJsW17JHlUW" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-28T14:01:56.022Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="J_o1ssjobqySBHhIEAMq" version="13.10.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="689" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -28,33 +28,25 @@
         <mxCell id="1767" value="&lt;b&gt;Goal:&lt;/b&gt; &lt;br&gt;To ensure there are standard security application practice guidelines established in order to implement a secure NOMS&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Ref: SAD 8.5" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=12;align=left;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="50" y="40" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1771" value="Communication" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="542" y="139.9999999999999" width="150" height="60" as="geometry" />
+        <mxCell id="1771" value="&lt;b&gt;Steps to achieve goal:&amp;nbsp;&lt;br&gt;&lt;/b&gt;1.&lt;span&gt;OWASP Application Security Verification Standard (ASVS): A standard for performing application-level security verifications.[&lt;/span&gt;&lt;div&gt;OWASP Testing Guide: The OWASP Testing Guide includes a &quot;best practice&quot; penetration testing framework&lt;/div&gt;&lt;div&gt;OWASP Top 10 Incident Response Guidance. This project provides a proactive approach to Incident Response planning. The intended audience of this document includes business owners to security engineers, developers, audit, program managers, law enforcement &amp;amp; legal council.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=12;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="540" y="30" width="160" height="460" as="geometry" />
         </mxCell>
         <mxCell id="1772" value="Events" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="742" y="400" width="150" height="60" as="geometry" />
+          <mxGeometry x="800" y="354" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1773" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="430" as="targetPoint" />
+            <mxPoint x="798" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="622" y="430" />
+              <mxPoint x="700" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1774" value="Media" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="742" y="290" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1775" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=0.844;exitY=1.031;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1771" target="1774" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="220" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="670" y="340" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="800" y="235" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1776" value="Sponsoring" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="742" y="50" width="150" height="60" as="geometry" />
+          <mxGeometry x="800" y="50" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1777" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1776" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -64,13 +56,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1778" value="PR" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="742" y="150" width="150" height="60" as="geometry" />
+          <mxGeometry x="800" y="140" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1779" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1778" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1779" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="706" y="164" as="sourcePoint" />
+            <mxPoint x="798" y="164" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9QWpWI23YcQeR8jQ0grn-1781" value="&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 18px; font-style: normal; letter-spacing: normal; text-align: justify; text-indent: -9.46667px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;i style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; Cyber Security Management Roadmap&lt;/i&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;labelBackgroundColor=#FFFFFF;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="410" y="-100" width="292.81" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9QWpWI23YcQeR8jQ0grn-1790" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="708" y="264.5" as="sourcePoint" />
+            <mxPoint x="800" y="264.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
