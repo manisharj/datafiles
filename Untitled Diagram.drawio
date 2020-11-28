@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T16:48:33.543Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Ssr66c3nRqEEFYv2Mp4b" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-28T23:21:47.077Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="DQPGJ3npAe32-F07cSZ7" version="13.10.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="984" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1329" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1749" value="&lt;b&gt;Tactics&lt;/b&gt;&lt;br&gt;&lt;br&gt;1.1.&amp;nbsp;&lt;span&gt;The service will be accessed via HTTPS port using existing ESB HTTPS configuration and a trusted&lt;/span&gt;&lt;div&gt;certificate and&amp;nbsp;Entrust Authority Security Toolkit for Java 7.2 (ref SAD 8.3.1.1)&lt;/div&gt;2.1.&amp;nbsp;&lt;span&gt;&amp;nbsp;A guideline that will be followed during the installation and configuration of Microsoft SQL&amp;nbsp;&lt;/span&gt;&lt;span&gt;Server 2012&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;3.1.&amp;nbsp;OWASP standard secure coding practices outlined and written agreement.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;fontFamily=Helvetica;fontSize=12;align=left;fontStyle=0;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1749" value="&lt;b&gt;Tactics&lt;/b&gt;&lt;br&gt;&lt;br&gt;1.1.&amp;nbsp;&lt;span&gt;The service will be accessed via HTTPS port using existing ESB HTTPS configuration and a trusted&lt;/span&gt;&lt;div&gt;certificate and&amp;nbsp;Entrust Authority Security Toolkit for Java 7.2 (ref SAD 8.3.1.1)&lt;/div&gt;2.1.&amp;nbsp;&lt;span&gt;&amp;nbsp;A guideline that will be followed during the installation and configuration of Microsoft SQL&amp;nbsp;&lt;/span&gt;&lt;span&gt;Server 2012&amp;nbsp;&lt;/span&gt;(ref: SAD 8.8)&lt;span&gt;&lt;br&gt;&lt;/span&gt;3.1.&amp;nbsp;OWASP standard secure coding practices outlined and written agreement. (ref: SAD 8.5)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;fontFamily=Helvetica;fontSize=12;align=left;fontStyle=0;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="70" y="440" width="340" height="170" as="geometry" />
         </mxCell>
         <mxCell id="9QWpWI23YcQeR8jQ0grn-1788" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2414FF;strokeWidth=3;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="1764" target="1749">
